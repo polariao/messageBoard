@@ -1,0 +1,2 @@
+INSERT INTO `openid` VALUES (2, 'olFRU1kE5lsxYHTVxqEVr42uIXs0', 0);
+INSERT INTO `openid` VALUES (4, 'olFRU1vK8IgnOKnvPb9jVvuULHoU', 0);
